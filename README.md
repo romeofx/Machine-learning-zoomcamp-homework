@@ -47,8 +47,7 @@ Customer Segmentation — K-means clustering for customer insights
 
 Clone the repository:
 
-git clone https://github.com/romeofx/Machine-learning-zoomcamp-homework.git
-cd ml-zoomcamp
+git clone https://github.com/romeofx/Machine-learning-zoomcamp-homework.gitcd ml-zoomcamp
 
 Create a virtual environment and install dependencies:
 
